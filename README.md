@@ -25,6 +25,24 @@ Este projeto tem como objetivo criar um shell basico, com comandos simples e foc
 - Trabalhar conceitos como processos, execucao e controle de comandos.
 - Desenvolver uma base simples para futuras melhorias no shell.
 
+## Documentação do projeto
+
+A documentação inicial do projeto está organizada em [doc/README.md](doc/README.md) e inclui:
+
+- proposta do projeto;
+- arquitetura inicial;
+- requisitos e critérios de aceite;
+- casos de uso e UML;
+- roadmap de desenvolvimento.
+
+Documentação principal:
+
+- [Visão geral](doc/01-proposta-do-projeto.md)
+- [Arquitetura inicial](doc/02-arquitetura-modulos.md)
+- [Requisitos e critérios de aceite](doc/03-requisitos-e-criterios-de-aceite.md)
+- [Casos de uso e UML](doc/04-casos-de-uso-e-uml.md)
+- [Roadmap e marcos](doc/05-roadmap-e-milestones.md)
+
 ## Compilar
 
 ```bash
