@@ -73,17 +73,22 @@ A implementação inicial considera as seguintes premissas:
 
 ---
 
-## 8. Escopo inicial
+## 8. Escopo inicial (Versão 1.0)
 
 O escopo desta primeira versão inclui:
 
-- prompt interativo;
+- prompt interativo com colorização;
 - leitura de comandos;
 - tokenização básica;
 - execução de comandos externos;
-- implementação de builtins básicos;
+- implementação de 12 builtins:
+  - cd, pwd, echo, whoami, clear
+  - ls, date, info, history, export, help, exit
 - mensagens de erro claras;
-- documentação inicial da arquitetura.
+- documentação inicial da arquitetura;
+- interface visual com árvore de diretórios colorida;
+- suporte para variáveis de ambiente;
+- informações do shell e histórico básico.
 
 ---
 

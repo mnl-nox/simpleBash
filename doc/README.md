@@ -15,6 +15,7 @@ Este diretório centraliza a documentação inicial do projeto, incluindo propos
 - [03 - Requisitos e critérios de aceitação](./03-requisitos-e-criterios-de-aceite.md)
 - [04 - Casos de uso e UML](./04-casos-de-uso-e-uml.md)
 - [05 - Roadmap e marcos](./05-roadmap-e-milestones.md)
+- [06 - Comandos disponíveis](./06-comandos-disponiveis.md)
 
 ---
 
